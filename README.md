@@ -8,4 +8,4 @@ Currently I work as college professor at Centro Universitário Senac in São Pau
 
 Before that I have graduted with a technical degree in computer programming and have worked as an intern mainly working with IT support. So I'm no strange to the tech world and still have many friends in the area!
 
-Here are some class assignments or projects of my own. Fell free to contact me at gabriel.lisboa11@gmail.com
+Here are some class assignments or projects of my own.
