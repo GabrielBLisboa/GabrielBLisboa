@@ -2,7 +2,7 @@
 
 Em outubro de 2022, fui selecionado para participar de um bootcamp de Automação de Testes promovido pelo Santander e pela Ada Tech. Fui um dos 75 selecionados em um processo que contou com mais de 5 mil inscrições.
 
-Com o treinamento concluído, sem nunca ter parado de estudar, sinto-me pronto para iniciar uma nova jornada trabalhando como Backend Developer (Java) ou como Analista de QA.
+Com o treinamento concluído, sem nunca ter parado de estudar, sinto-me pronto para iniciar uma nova jornada trabalhando como <b> Desenvolvedor Backend </b> (Java) ou como <b> Analista de QA </b>.
 
 Atualmente, trabalho como professor universitário no Centro Universitário Senac em São Paulo e tenho trabalhado ou ensinado cinema e estudos de comunicação nos últimos seis anos.
 
